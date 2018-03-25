@@ -1,0 +1,29 @@
+{
+  "name": "begrimedtonic",
+  "version": "1.0.0",
+  "description": "Rap Lyric Translator begrimed Tonic",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doncurt/BegrimedTonic.git"
+  },
+  "keywords": [
+    "lyrics",
+    "rap",
+    "tranlation"
+  ],
+  "author": "Donovan Adams & Matthew Harrilal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doncurt/BegrimedTonic/issues"
+  },
+  "homepage": "https://github.com/Doncurt/BegrimedTonic#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "npm": "^5.8.0"
+  }
+}
